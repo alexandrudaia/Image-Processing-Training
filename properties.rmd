@@ -1,0 +1,5 @@
+
+* any image data  needs to  be  be reduced   noise , enhance the contrast , rehspae , maybe rotate  
+
+* They are represented  as    an array : could  be GRAY SCALE  IMAGES  or COLOR IMAGES
+* In general a image is represented as    3  arrays   :  an array for red  an  array greeon and and array   for blue
