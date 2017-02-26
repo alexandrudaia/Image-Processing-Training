@@ -1,0 +1,1 @@
+Computing  kinetic  energy  of   pixel  for  each row  in every image to see  if it  make  sense.
